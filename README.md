@@ -1,4 +1,5 @@
-## Letter Guesser
+## Guesser
+![](terminalmeme.jpg)
 This is a simple game where you're given a letter and you have to guess its index number.
 
 - In `Guesser.js`, define a function called `letterGuesser`.
@@ -11,17 +12,16 @@ This is a simple game where you're given a letter and you have to guess its inde
 - Call `letter_guesser`.
 - Save your work, go to the browser, and refresh to run the file you just created.
 
-
 The result should look something like this:
 
 ```
 Your letter is c. Guess c's index number.
 2
-Whoa! You're like a genius when it comes to the alphabet!
+You definitely know the alphabet!
 ```
 
 ```
 Prompt: Your letter is z. Guess z's index number.
-1 
-You lose! Looks like you need to learn your ABC's. The index of z is actually 25.
+1
+incorrect, you will have to re-learn the abc's. The index of z is actually 25.
 ```
